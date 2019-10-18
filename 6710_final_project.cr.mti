@@ -1,0 +1,8 @@
+/home/u1268319/Documents/ece6710/lab1/modelsim/projects/testbench_VGA_controller.v {1 {vlog -work logic_cells_rtl -vopt -stats=none /home/u1268319/Documents/ece6710/lab1/modelsim/projects/testbench_VGA_controller.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module VGA_testbench
+
+Top level modules:
+	VGA_testbench
+
+} {} {}}
